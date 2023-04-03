@@ -1,4 +1,5 @@
 # Hunger Games Simulator
+# By Winslow Church
 import pygame, sys, time, random
 pygame.init()
 
