@@ -66,18 +66,19 @@ background_images = [background1_image, background2_image, background3_image, ba
                      background7_image, background8_image, background9_image, background10_image, background11_image, background12_image,
                      background13_image, background14_image]
 
-tributes = []
-#tributes = ["Maddie","Winslow","Zeena","Kylee","Jerry","Max","Nick","Avi","Ellie","Jackie","Megan","Justin",
-#            "Serena","Jack","Hudson","Addison","Graydon","Sam","Katniss","Gooter","Peeta","Michela","Kat","Amanda"]
+#tributes = []
+tributes = ["Maddie","Winslow","Zeena","Kylee","Jerry","Max","Nick","Avi","Ellie","Jackie","Megan","Justin",
+            "Serena","Jack","Hudson","Addison","Graydon","Sam","Katniss","Gooter","Peeta","Michela","Kat","Amanda"]
 
 alive_events1 = ["has a panic attack", "catches and eats a rabbit", "runs away from the cornucopia", "heads for the woods", "panics and runs away",
                  "acquires a knife", "gets a sword from the cornucopia", "gets a backpack", "runs into a tree branch", "tackles another tribute for supplies",
                  "survives a fistfight with", "escapes a knife fight with", "tries to find a water source", "heads for highground", "tries to seduce the careers",
-                 "hides in a bush", "camaflouges in the trees", "finds a cave", "eats a squirrel", "starts a fire", "wishes they didn't volunteer for the hunger games",
+                 "hides in a bush", "camaflouges in the trees", "finds a cave", "eats a squirrel", "starts a fire", "wishes they didn't volunteer",
                  "camps out by the river", "sprints away from everyone", "gets an empty bag from the cornucopia", "runs away from", "wrestles over a sleeping bag with",
                  "steals a knife from", "takes food from", "doesn't get anything from the cornucopia", "sets up camp for the night", "sleeps in a tree",
                  "is already losing their mind", "makes a tent out of branches", "fights with", "survives the bloodbath", "makes it through the first day unharmed",
-                 "forms an alliance with", "makes an alliance with", "is already hungry", "teams up with", "stays up all night", "tries to keep it together"]
+                 "forms an alliance with", "makes an alliance with", "is already hungry", "teams up with", "stays up all night", "tries to keep it together",
+                 "rocks back and forth in fetal position"]
 
 alive_events2 = ["picks flowers", "climbs a tree", "eats berries", "is extremely hungry", "has an existential crisis", "catches and eats a weird looking bird",
                  "gets attacked by a squirrel but survives", "runs into a tree branch", "sprains their ankle", "is starting to go insane", "is looking for water",
@@ -92,7 +93,10 @@ alive_events2 = ["picks flowers", "climbs a tree", "eats berries", "is extremely
                  "drinks rainwater", "eats a rock to feel full", "is severely dehydrated", "sets traps in the forest", "scavenges for supplies", "hunts in the night",
                  "has no clue how many tributes are left", "broke their wrist falling down a hill", "tumbles down a hill but is okay", "gets caught in a trap but escapes",
                  "can't find any food", "eats eggs from a bird's nest", "gets swarmed by bees", "fights a badger over some berries", "hallucinates from lack of sleep",
-                 "has no survival instincts"]
+                 "has no survival instincts", "took a nap", "has a fever", "is going a lil crazy", "stepped in a puddle and got their socks all wet",
+                 "got wacked in the head by a sponsor parachute", "plays tic tac toe with themself in the dirt", "lost all their weapons when they fell down a hill",
+                 "got distracted by their reflection in the water", "had a dream that they won", "'s shelter isn't good and they get drenched by rain",
+                 "flips off the cameras", "brushes their hair with a twig", "gets a splinter"]
 
 death_events1 = ["gets stabbed by", "immediately steps on a landmine", "gets thier throat slit by", "gets their head bashed in by", "gets speared by",
                  "gets poised darted by", "is strangled by", "gets drowned by", "bleeds out from being cut by", "gets mauled by a bear", "gets their neck snapped by",
@@ -115,4 +119,4 @@ death_events3 = ["gets stabbed by", "commits unlife by jumping off a cliff", "is
                  "gets bitten by a bunny and dies from infection", "gets a sword to the face by", "gets bitten by a poison frog and dies", "gets shot with an arrow by",
                  "is electrocuted by", "gets killed in an avalanche", "gets smushed by a rock", "gets killed by a tornado", "downs in a whirlpool", "gets struck by lightning",
                  "dies from a tree falling on them", "tries to pet a bear and dies immeditaley", "dies in quicksand", "is pushed into lava by", "is thrown into a volcano by",
-                 "is bludgeoned to death by", "is poisoned by"]
+                 "is bludgeoned to death by", "is poisoned by", "choked to death on food sent by a sponsor", "was burned alive in acid rain", "was electrocuted by the force field"]
