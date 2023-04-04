@@ -66,9 +66,9 @@ background_images = [background1_image, background2_image, background3_image, ba
                      background7_image, background8_image, background9_image, background10_image, background11_image, background12_image,
                      background13_image, background14_image]
 
-#tributes = []
-tributes = ["Maddie","Winslow","Zeena","Kylee","Jerry","Max","Nick","Avi","Ellie","Jackie","Megan","Justin",
-            "Serena","Jack","Hudson","Addison","Graydon","Sam","Katniss","Gooter","Peeta","Michela","Kat","Amanda"]
+tributes = []
+#tributes = ["Maddie","Winslow","Zeena","Kylee","Jerry","Max","Nick","Avi","Ellie","Jackie","Megan","Justin",
+            #"Serena","Jack","Hudson","Addison","Graydon","Sam","Katniss","Gooter","Peeta","Michela","Kat","Amanda"]
 
 alive_events1 = ["has a panic attack", "catches and eats a rabbit", "runs away from the cornucopia", "heads for the woods", "panics and runs away",
                  "acquires a knife", "gets a sword from the cornucopia", "gets a backpack", "runs into a tree branch", "tackles another tribute for supplies",
@@ -94,8 +94,8 @@ alive_events2 = ["picks flowers", "climbs a tree", "eats berries", "is extremely
                  "has no clue how many tributes are left", "broke their wrist falling down a hill", "tumbles down a hill but is okay", "gets caught in a trap but escapes",
                  "can't find any food", "eats eggs from a bird's nest", "gets swarmed by bees", "fights a badger over some berries", "hallucinates from lack of sleep",
                  "has no survival instincts", "took a nap", "has a fever", "is going a lil crazy", "stepped in a puddle and got their socks all wet",
-                 "got wacked in the head by a sponsor parachute", "plays tic tac toe with themself in the dirt", "lost all their weapons when they fell down a hill",
-                 "got distracted by their reflection in the water", "had a dream that they won", "'s shelter isn't good and they get drenched by rain",
+                 "got wacked in the head by a sponsor parachute", "plays tic tac toe with themself in the dirt", "lost all their weapons",
+                 "got distracted by their reflection in the water", "had a dream that they won", "'s shelter isn't good and they get drenched",
                  "flips off the cameras", "brushes their hair with a twig", "gets a splinter"]
 
 death_events1 = ["gets stabbed by", "immediately steps on a landmine", "gets thier throat slit by", "gets their head bashed in by", "gets speared by",
