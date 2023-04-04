@@ -12,8 +12,7 @@ This is a simple game built with pygame that takes in names, or 'tributes', and 
 
 ![alt text](https://github.com/winslowchurch/Hunger-Games-Simulator/blob/main/images/day.png)
 
-_Credits:_
-
+**Credits:**
 [Maddie Dailey](https://github.com/maddiedailey) helped come up with events.
 
 Suzanne Collins please don't sue me
